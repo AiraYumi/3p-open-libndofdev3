@@ -16,11 +16,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>297e42174e98495bdf4544bd1cfc3c4273378953</string>
+              <string>8d1112ec7cb5dde3454d828e2bab984a50755943</string>
               <key>hash_algorithm</key>
               <string>sha1</string>
               <key>url</key>
-              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.3/SDL3-3.1.3-linux64-11586688914.tar.zst</string>
+              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.6/SDL3-3.1.3-linux64-11679197212.tar.zst</string>
             </map>
             <key>name</key>
             <string>linux64</string>
@@ -30,11 +30,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>a588b8f55c39048f7c294f120236aab68c29feb2</string>
+              <string>422cac97067e6ba3e5d919004acc5cf0587f9d49</string>
               <key>hash_algorithm</key>
               <string>sha1</string>
               <key>url</key>
-              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.3/SDL3-3.1.3-darwin64-11586688914.tar.zst</string>
+              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.6/SDL3-3.1.3-darwin64-11679197212.tar.zst</string>
             </map>
             <key>name</key>
             <string>darwin64</string>
@@ -44,11 +44,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>8182529fc870804d1148e208d19b1847ee0bcc38</string>
+              <string>d90317fe21645261a9e44ca8e4f6ddb9e5ce6236</string>
               <key>hash_algorithm</key>
               <string>sha1</string>
               <key>url</key>
-              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.3/SDL3-3.1.3-windows64-11586688914.tar.zst</string>
+              <string>https://github.com/AiraYumi/3p-sdl3/releases/download/v3.1.6/SDL3-3.1.3-windows64-11679197212.tar.zst</string>
             </map>
             <key>name</key>
             <string>windows64</string>
